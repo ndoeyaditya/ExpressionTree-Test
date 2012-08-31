@@ -10,6 +10,9 @@ namespace ExpressionTreeTraining
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Expression Tree Test");
+            Console.WriteLine();
+
             MethodThree();
             MethodFour();
         }
